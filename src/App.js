@@ -8,7 +8,7 @@ import Message from "./Message"
 
 import { db } from "./firebase"
 
-import "./App.css"
+import "./App.scss"
 
 function App() {
   const [input, setInput] = useState("")
